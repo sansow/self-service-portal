@@ -1,4 +1,8 @@
 # Building Self-Service Provisioning on OpenShift  - NB Internal Developer Platform
-A Sample self service provisioning for NB developers on OpenShift 
+This repository drives the **NB's Internal Developer Platform** on OpenShift.
+It implements a self-service provisioning model that gives application teams cloud-like
+agility while enforcing enterprise security, governance, and compliance at scale.
 
-ARCHITECTURE OVERVIEW
+
+**Platform Owner:** Team Platform Engineering
+**Platform:** Red Hat OpenShift on-prem
